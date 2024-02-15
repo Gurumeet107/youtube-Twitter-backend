@@ -69,33 +69,6 @@ and combines Twitter's tweet functionality into it. You can find more about his 
 - MongoDB
 - Cloudinary (must have an account)
 
-## Installation and Setup
-
-1. **Clone the repository:**
-
-    ```bash
-    https://github.com/HRDs-VERSE/backend_withchai.git
-    ```
-
-2. **Install dependencies:**
-
-    ```bash
-    cd backend_withchai/project
-    npm install
-    ```
-
-3. **Set up environment variables:**
-    Create a .env in the root of the project and fill in the required values in the .env file using the .env.sample file
-
-4. **Start the server:**
-
-    ```bash
-    npm run dev
-    ```
-
-## Contributing
-
-If you wish to contribute to this project, please feel free to contribute.
 
 ## License
 
