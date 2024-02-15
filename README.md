@@ -71,6 +71,3 @@ and combines Twitter's tweet functionality into it. You can find more about his 
 
 
 
-## License
-
-This project is licensed under [ChaiAurCode](https://www.youtube.com/@chaiaurcode).
